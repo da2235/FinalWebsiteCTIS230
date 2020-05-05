@@ -36,9 +36,14 @@ header.flexible {
     margin-left: 30px;
 }
 
+footer.flexible {
+    margin-top: 50mm;
+}
+
 p {
     font-size: 1.5em;
     margin-left: 10mm;
+    margin-right: 10mm;
 }
 
 h2 {
@@ -58,8 +63,18 @@ h3 {
     padding-right: 10mm;
 }
 
-footer.flexible {
-    margin-top: 50mm;
+#img2 {
+    float: left;
+    padding-bottom: 10mm;
+    padding-left: 10mm;
+    padding-right: 10mm;
+}
+
+#img3 {
+    float: left;
+    padding-bottom: 10mm;
+    padding-left: 10mm;
+    padding-right: 10mm;
 }
 
 a:link {
@@ -67,4 +82,12 @@ a:link {
 }
 a:visited {
     color: black;
+}
+
+h3.noor {
+    margin-top: 50mm;
+}
+
+h2.heading {
+    padding-left: 10mm;
 }
