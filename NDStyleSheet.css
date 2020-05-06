@@ -91,3 +91,24 @@ h3.noor {
 h2.heading {
     padding-left: 10mm;
 }
+
+#img4 {
+    float: left;
+    padding-left: 10mm;
+    padding-right: 10mm;
+}
+
+#img5 {
+    float: left;
+    padding-bottom: 10mm;
+    padding-left: 10mm;
+    padding-right: 10mm;
+}
+
+#img10 {
+    padding: 10mm;
+}
+
+h3.under {
+    margin-top: 45mm;
+}
