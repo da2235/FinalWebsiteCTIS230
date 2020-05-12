@@ -115,6 +115,21 @@ ul {
 #img7 {
     margin-right: 30mm;
 }
+
+#img8, #img9 {
+    float: right;
+}
+
+#img8 {
+    margin-right: 20mm;
+    margin-top: 18mm;
+}
+
+#img9 {
+    margin-right: 30mm;
+    margin-top: 10mm;
+}
+
 a:link {
     color: black;
 }
