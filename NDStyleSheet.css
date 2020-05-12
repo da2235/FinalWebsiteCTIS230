@@ -104,6 +104,17 @@ ul {
     margin-top: 5mm;
 }
 
+#img6, #img7 {
+    float: right;
+}
+
+#img6 {
+    margin-right: 20mm;
+}
+
+#img7 {
+    margin-right: 30mm;
+}
 a:link {
     color: black;
 }
