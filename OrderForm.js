@@ -13,6 +13,6 @@ myAdditional = document.getElementById("additional information");
 function formfunction () {
     console.log(myFirstName.value);
     document.write("<h1>");
-    document.write("myFirstName.value");
+    document.write(myFirstName.value);
     document.write("</h1>");
 }
