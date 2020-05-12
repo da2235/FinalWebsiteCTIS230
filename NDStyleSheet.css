@@ -4,14 +4,16 @@ body {
 
 h1 {
     text-align: center;
-    font-size: 3em;
+    font-size: 4em;
     background-color: lightpink;
+    font-family: "French Script MT";
 }
 
 h2.subtitle {
     text-align: center;
-    font-size: 2em;
+    font-size: 2.2em;
     background-color: rgb(252, 218, 224);
+    font-family: "Bell MT";
 }
 
 div.content1 {
@@ -21,18 +23,20 @@ div.content1 {
     align-items: center;
     font-weight: bolder;
     font-size: x-large;
-    font-size: 1.2em;
-    padding-left: 100px;
-    padding-right: 100px;
+    font-size: 1.4em;
+    padding-left: 80px;
+    padding-right: 80px;
     padding-top: 15px;
     padding-bottom: 15px;
+    font-family: "Bell MT";
 }
 
 header.flexible {  
     display: flex;  
     flex-direction: row;
     margin-top: 50px;
-    margin-left: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
     justify-content: center;
     justify-content: space-between;
 }
@@ -42,19 +46,28 @@ footer.flexible {
 }
 
 p {
-    font-size: 1.5em;
+    font-size: 1.7em;
     margin-left: 10mm;
     margin-right: 10mm;
+    font-family: "Bell MT";
 }
 
 h2 {
     font-size: 2.5em;
+    font-family: "Bell MT";
 }
 
 h3 {
     font-size: 2em;
     margin-left: 10mm;
+    font-family: "Bell MT";
+}
 
+ul {
+    font-size: 1.5em;
+    margin-left: 10mm;
+    margin-right: 10mm;
+    font-family: "Bell MT";
 }
 
 #img1 {
@@ -78,6 +91,19 @@ h3 {
     padding-right: 10mm;
 }
 
+#img4, #img5 {
+    float: right;
+}
+
+#img4 {
+    margin-right: 20mm;
+}
+
+#img5 {
+    margin-right: 30mm;
+    margin-top: 5mm;
+}
+
 a:link {
     color: black;
 }
@@ -95,4 +121,8 @@ h2.heading {
 
 img.foods {
     padding: 15mm;
+}
+
+#products {
+    margin-left: 75px;
 }
