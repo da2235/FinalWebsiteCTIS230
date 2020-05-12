@@ -130,6 +130,44 @@ ul {
     margin-top: 10mm;
 }
 
+
+#img10, #img11 {
+    float: right;
+}
+
+#img10 {
+    margin-right: 20mm;
+}
+
+#img11 {
+    margin-right: 30mm;
+    margin-top: 5mm;
+}
+
+#img12, #img13 {
+    float: right;
+}
+
+#img12 {
+    margin-right: 20mm;
+}
+
+#img13 {
+    margin-right: 30mm;
+}
+
+#img14, #img15 {
+    float: right;
+}
+
+#img14 {
+    margin-right: 20mm;
+}
+
+#img15 {
+    margin-right: 30mm;
+}
+
 a:link {
     color: black;
 }
