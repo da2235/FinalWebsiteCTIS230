@@ -278,3 +278,162 @@ div.foods {
     text-align: center;
 }
 
+
+@media (max-width: 1000px) {
+    
+    body {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    
+    #img1 {
+        width: 50mm;
+        float: none;
+    }
+
+    div.content1 {
+        padding: 2px;
+        font-size: .9em;
+    }
+
+    p{
+        font-size: 1.2em;
+    }
+
+    ul {
+        font-size: 1.2em;
+    }
+
+    #img2 {
+        float: none;
+        width: 40mm;
+    }
+
+    #img3 {
+        float: none;
+        width: 40mm;
+    }
+
+    h3.noor {
+        margin-top: 5mm;
+    }
+
+    figure img {
+        width: 40mm;
+    }
+
+    figure figcaption {
+        font-size: medium;
+    }
+
+    h2.heading {
+        font-size: 2.2em;
+    }
+
+    h3 {
+        font-size: 1.7em;
+    }
+
+    #img4, #img5 {
+        float: none;
+    }
+
+    #img4 {
+        width: 30mm;
+        margin-left: 35mm;
+    }
+
+    #img5 {
+        width: 40mm;
+        margin-left: 30mm;
+    }
+
+    #img6, #img7 {
+        float: none;
+        width: 30mm;
+        margin-left: 35mm;
+    }
+
+    #img6 {
+        margin-bottom: 10mm;
+    }
+
+    #img8, #img9 {
+        float: none;
+        width: 30mm;
+        margin-left: 35mm;
+    }
+
+    
+    #img10, #img11 {
+        float: none;
+    }
+
+    #img10 {
+        width: 30mm;
+        margin-left: 35mm;
+    }
+
+    #img11 {
+        width: 40mm;
+        margin-left: 30mm;
+    }
+    
+    #img12, #img13 {
+        float: none;
+        width: 30mm;
+        margin-left: 35mm;
+    }
+ 
+    #img12 {
+        margin-bottom: 10mm;
+    }
+
+    #img14, #img15 {
+        float: none;
+        width: 30mm;
+        margin-left: 35mm;
+    }
+ 
+    #img14 {
+        margin-bottom: 10mm;
+    }
+
+    #img16, #img17 {
+        float: none;
+        width: 30mm;
+        margin-left: 35mm;
+    }
+ 
+    #img16 {
+        margin-bottom: 10mm;
+    }
+
+    #img18, #img19 {
+        float: none;
+        width: 30mm;
+        margin-left: 35mm;
+    }
+ 
+    #img18 {
+        margin-bottom: 10mm;
+    }
+
+    #img20, #img21 {
+        float: none;
+        width: 30mm;
+        margin-left: 35mm;
+    }
+ 
+    #img20 {
+        margin-bottom: 10mm;
+    }
+}
+
+@media screen and (orientation: portrait) {    
+    
+}
+
+@media screen and (orientation: landscape) {    
+    
+}
