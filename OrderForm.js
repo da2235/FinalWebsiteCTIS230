@@ -1,14 +1,14 @@
-myFirstName = document.getElementById("first name");
-myLastName = document.getElementById("last name");
+myFirstName = document.getElementById("firstname");
+myLastName = document.getElementById("lastname");
 myEmail = document.getElementById("email");
-myPhoneNumber = document.getElementById("phone number");
-myBakeryItem = document.getElementById("bakery item");
+myPhoneNumber = document.getElementById("phonenumber");
+myBakeryItem = document.getElementById("bakeryitem");
 myQuantity = document.getElementById("quantity");
-mySpecialInstructions = document.getElementById("special instructions");
-myCreditCardNumber = document.getElementById("credit card number");
-mySecurityCode = document.getElementById("security code");
-myExpirationDate = document.getElementById("expiration date");
-myAdditional = document.getElementById("additional information");
+mySpecialInstructions = document.getElementById("specialinstructions");
+myCreditCardNumber = document.getElementById("creditcardnumber");
+mySecurityCode = document.getElementById("securitycode");
+myExpirationDate = document.getElementById("expirationdate");
+myAdditional = document.getElementById("additionalinformation");
 
 function formfunction () {
     console.log(myFirstName.value);
