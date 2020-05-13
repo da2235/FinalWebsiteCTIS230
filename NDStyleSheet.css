@@ -259,6 +259,18 @@ footer.flexible {
     color: white;
 }
 
-figcaption {
+figure {
+    display: inline-block;
+    vertical-align: top;
+}
+
+figure img {
+    vertical-align: top;
+}
+
+figure figcaption {
     text-align: center;
+    font-family: "Bell Mt";
+    font-size: 1.7em;
+    color: white;
 }
