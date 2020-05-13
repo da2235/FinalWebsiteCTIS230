@@ -53,6 +53,7 @@ p {
     margin-right: 10mm;
     font-family: "Bell MT";
     color: white;
+    
 }
 
 h2 {
@@ -262,7 +263,7 @@ figure {
 
 figure img {
     vertical-align: top;
-    border: 3px solid white;;
+    border: 5px solid white;;
 }
 
 figure figcaption {
@@ -271,5 +272,9 @@ figure figcaption {
     font-size: 1.7em;
     color: white;
     font-weight: bolder;
+}
+
+div.foods {
+    text-align: center;
 }
 
