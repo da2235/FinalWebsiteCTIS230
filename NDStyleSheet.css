@@ -1,25 +1,27 @@
 body {
-    background-color: lightgray;
+    background-color: rgb(80, 78, 78);
 }
 
 h1 {
     text-align: center;
     font-size: 4em;
-    background-color: lightpink;
+    background-color: rgb(252, 72, 126);
     font-family: "French Script MT";
+    color: white;
 }
 
 h2.subtitle {
     text-align: center;
     font-size: 2.2em;
-    background-color: rgb(252, 218, 224);
+    background-color: rgb(250, 156, 170);
     font-family: "Bell MT";
+    color: white;
 }
 
 div.content1 {
-    color:black;
-    background-color: lightpink;
-    border: 3px solid rgb(252, 218, 224);
+    color:white;
+    background-color: rgb(252, 72, 126);
+    border: 3px solid white;
     align-items: center;
     font-weight: bolder;
     font-size: x-large;
@@ -50,17 +52,20 @@ p {
     margin-left: 10mm;
     margin-right: 10mm;
     font-family: "Bell MT";
+    color: white;
 }
 
 h2 {
     font-size: 2.5em;
     font-family: "Bell MT";
+    color: white;
 }
 
 h3 {
     font-size: 2em;
     margin-left: 10mm;
     font-family: "Bell MT";
+    color: white;
 }
 
 ul {
@@ -68,6 +73,7 @@ ul {
     margin-left: 10mm;
     margin-right: 10mm;
     font-family: "Bell MT";
+    color: white;
 }
 
 #img1 {
@@ -79,16 +85,18 @@ ul {
 
 #img2 {
     float: left;
-    padding-bottom: 10mm;
-    padding-left: 10mm;
-    padding-right: 10mm;
+    margin-bottom: 10mm;
+    margin-left: 10mm;
+    margin-right: 10mm;
+    border: 5px solid white;
 }
 
 #img3 {
     float: left;
-    padding-bottom: 10mm;
-    padding-left: 10mm;
-    padding-right: 10mm;
+    margin-bottom: 10mm;
+    margin-left: 10mm;
+    margin-right: 10mm;
+    border: 5px solid white;
 }
 
 #img4, #img5 {
@@ -97,11 +105,13 @@ ul {
 
 #img4 {
     margin-right: 20mm;
+    border: 5px solid white;
 }
 
 #img5 {
     margin-right: 30mm;
     margin-top: 5mm;
+    border: 5px solid white;
 }
 
 #img6, #img7 {
@@ -110,10 +120,12 @@ ul {
 
 #img6 {
     margin-right: 20mm;
+    border: 5px solid white;
 }
 
 #img7 {
     margin-right: 30mm;
+    border: 5px solid white;
 }
 
 #img8, #img9 {
@@ -123,11 +135,13 @@ ul {
 #img8 {
     margin-right: 20mm;
     margin-top: 10mm;
+    border: 5px solid white;
 }
 
 #img9 {
     margin-right: 30mm;
     margin-top: 10mm;
+    border: 5px solid white;
 }
 
 
@@ -137,11 +151,13 @@ ul {
 
 #img10 {
     margin-right: 20mm;
+    border: 5px solid white;
 }
 
 #img11 {
     margin-right: 30mm;
     margin-top: 5mm;
+    border: 5px solid white;
 }
 
 #img12, #img13 {
@@ -150,10 +166,12 @@ ul {
 
 #img12 {
     margin-right: 20mm;
+    border: 5px solid white;
 }
 
 #img13 {
     margin-right: 30mm;
+    border: 5px solid white;
 }
 
 #img14, #img15 {
@@ -162,17 +180,19 @@ ul {
 
 #img14 {
     margin-right: 20mm;
+    border: 5px solid white;
 }
 
 #img15 {
     margin-right: 30mm;
+    border: 5px solid white;
 }
 
 a:link {
-    color: black;
+    color: white;
 }
 a:visited {
-    color: black;
+    color: white;
 }
 
 h3.noor {
@@ -184,9 +204,14 @@ h2.heading {
 }
 
 img.foods {
-    padding: 15mm;
+    margin: 15mm;
+    border: 5px solid white;
 }
 
 #products {
     margin-left: 75px;
+}
+
+footer.flexible {
+    color: white;
 }
