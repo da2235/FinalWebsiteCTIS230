@@ -188,6 +188,49 @@ ul {
     border: 5px solid white;
 }
 
+#img16, #img17 {
+    float: right;
+}
+
+#img16 {
+    margin-right: 20mm;
+    border: 5px solid white;
+}
+
+#img17 {
+    margin-right: 30mm;
+    border: 5px solid white;
+}
+
+
+#img18, #img19 {
+    float: right;
+}
+
+#img18 {
+    margin-right: 20mm;
+    border: 5px solid white;
+}
+
+#img19 {
+    margin-right: 30mm;
+    border: 5px solid white;
+}
+
+#img20, #img21 {
+    float: right;
+}
+
+#img20 {
+    margin-right: 20mm;
+    border: 5px solid white;
+}
+
+#img21 {
+    margin-right: 30mm;
+    border: 5px solid white;
+}
+
 a:link {
     color: white;
 }
