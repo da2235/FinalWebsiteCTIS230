@@ -258,3 +258,7 @@ img.foods {
 footer.flexible {
     color: white;
 }
+
+figcaption {
+    text-align: center;
+}
