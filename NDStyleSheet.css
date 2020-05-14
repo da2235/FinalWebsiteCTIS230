@@ -434,5 +434,9 @@ div.foods {
     div.content1 {
         padding: 10px;
     }
+
+    #img7 {
+        margin-top: none;
+    }
 }
 
