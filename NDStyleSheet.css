@@ -272,6 +272,7 @@ figure figcaption {
     font-size: 1.7em;
     color: white;
     font-weight: bolder;
+    font-style: italic;
 }
 
 div.foods {
