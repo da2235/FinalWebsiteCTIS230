@@ -430,11 +430,9 @@ div.foods {
     }
 }
 
-@media screen and (orientation: portrait) {    
-    
-}
-
 @media screen and (orientation: landscape) {    
-    
+    div.content1 {
+        padding: 10px;
+    }
 }
 
