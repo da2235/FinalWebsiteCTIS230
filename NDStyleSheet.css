@@ -434,14 +434,9 @@ div.foods {
     div.content1 {
         padding: 10px;
     }
-    #img7 {
-        margin-bottom: none;
+    #img6 {
+        margin-top: 10mm;
     }
-    #img7 {
-        margin-top: none;
-    }
-    body {
-        background-color: yellow;
-    }
+    
 }
 
